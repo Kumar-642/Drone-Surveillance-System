@@ -35,18 +35,6 @@ The Smart Surveillance System leverages drone technology integrated with advance
 2. **Agricultural Applications:** Improves crop management and mitigates wildlife damage.
 3. **Technological Advancement:** Contributes to the fields of drone technology, computer vision, and image recognition.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/smart-surveillance-system.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Set up the hardware components as per the provided documentation.
-4. Configure the software and integrate the image recognition and flight control modules.
 
 ## Usage
 
